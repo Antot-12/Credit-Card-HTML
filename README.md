@@ -8,7 +8,6 @@ A **responsive** and **interactive** credit card form. This project provides a d
 
 ✔️ Real-time credit card preview  
 ✔️ Supports different card types (Visa, MasterCard, Amex, etc.)  
-✔️ Vue.js powered dynamic UI  
 ✔️ Form validation for accurate input  
 ✔️ Stylish, modern UI with smooth animations  
 ✔️ Fully responsive design 📱💻
@@ -66,14 +65,6 @@ Simply open the `index.html` file in any modern browser.
 
 4️⃣ **Submit the Form**
 - Click the **Submit** button to process the form. 🚀
-
----
-
-## 🖼️ UI Preview
-
-The credit card flips automatically when entering **CVV** details! 🔄
-
-![UI Preview](screen/demo.png)
 
 ---
 
